@@ -1,0 +1,96 @@
+C:\Users\Administrator\Desktop\临时\HeCheck\HeCheck\bin\Debug\HeCheck.exe.config
+C:\Users\Administrator\Desktop\临时\HeCheck\HeCheck\bin\Debug\HeCheck.exe
+C:\Users\Administrator\Desktop\临时\HeCheck\HeCheck\bin\Debug\HeCheck.pdb
+C:\Users\Administrator\Desktop\临时\HeCheck\HeCheck\obj\Debug\HeCheck.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\临时\HeCheck\HeCheck\obj\Debug\HeCheck.FormMain.resources
+C:\Users\Administrator\Desktop\临时\HeCheck\HeCheck\obj\Debug\HeCheck.Properties.Resources.resources
+C:\Users\Administrator\Desktop\临时\HeCheck\HeCheck\obj\Debug\HeCheck.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\临时\HeCheck\HeCheck\obj\Debug\HeCheck.exe
+C:\Users\Administrator\Desktop\临时\HeCheck\HeCheck\obj\Debug\HeCheck.pdb
+C:\Users\Administrator\Desktop\临时\HeCheck\HeCheck\bin\Debug\SkyTool.dll
+C:\Users\Administrator\Desktop\临时\HeCheck\HeCheck\bin\Debug\NModbus.dll
+C:\Users\Administrator\Desktop\临时\HeCheck\HeCheck\bin\Debug\NModbus4.dll
+C:\Users\Administrator\Desktop\临时\HeCheck\HeCheck\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\临时\HeCheck\HeCheck\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\临时\HeCheck\HeCheck\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\临时\HeCheck\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\临时\HeCheck\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\临时\HeCheck\HeCheck\bin\Debug\SkyTool.pdb
+C:\Users\Administrator\Desktop\临时\HeCheck\HeCheck\bin\Debug\NModbus.xml
+C:\Users\Administrator\Desktop\临时\HeCheck\HeCheck\bin\Debug\NModbus4.xml
+C:\Users\Administrator\Desktop\临时\HeCheck\HeCheck\bin\Debug\NPOI.xml
+C:\Users\Administrator\Desktop\临时\HeCheck\HeCheck\bin\Debug\NPOI.OOXML.xml
+C:\Users\Administrator\Desktop\临时\HeCheck\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代\氦检\HeCheck - 2023-03-17\HeCheck\bin\Debug\HeCheck.exe.config
+E:\按公司分类\宁德 时代\氦检\HeCheck - 2023-03-17\HeCheck\obj\Debug\HeCheck.exe
+E:\按公司分类\宁德 时代\氦检\HeCheck - 2023-03-17\HeCheck\obj\Debug\HeCheck.pdb
+E:\按公司分类\宁德 时代\氦检\HeCheck - 2023-03-17\HeCheck\bin\Debug\HeCheck.exe
+E:\按公司分类\宁德 时代\氦检\HeCheck - 2023-03-17\HeCheck\bin\Debug\HeCheck.pdb
+E:\按公司分类\宁德 时代\氦检\HeCheck - 2023-03-17\HeCheck\bin\Debug\SkyTool.dll
+E:\按公司分类\宁德 时代\氦检\HeCheck - 2023-03-17\HeCheck\bin\Debug\NModbus.dll
+E:\按公司分类\宁德 时代\氦检\HeCheck - 2023-03-17\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代\氦检\HeCheck - 2023-03-17\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代\氦检\HeCheck - 2023-03-17\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代\氦检\HeCheck - 2023-03-17\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代\氦检\HeCheck - 2023-03-17\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代\氦检\HeCheck - 2023-03-17\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代\氦检\HeCheck - 2023-03-17\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代\氦检\HeCheck - 2023-03-17\HeCheck\bin\Debug\NModbus.xml
+E:\按公司分类\宁德 时代\氦检\HeCheck - 2023-03-17\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代\氦检\HeCheck - 2023-03-17\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代\氦检\HeCheck - 2023-03-17\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代\氦检\HeCheck - 2023-03-17\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代\氦检\HeCheck - 2023-03-17\HeCheck\obj\Debug\HeCheck.csprojResolveAssemblyReference.cache
+E:\按公司分类\宁德 时代\氦检\HeCheck - 2023-03-17\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代\氦检\HeCheck - 2023-03-17\HeCheck\obj\Debug\HeCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代\氦检\HeCheck - 2023-03-17\HeCheck\obj\Debug\HeCheck.csproj.GenerateResource.Cache
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\bin\Debug\NModbus.dll
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\bin\Debug\NModbus.xml
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\obj\Debug\HeCheck.csprojAssemblyReference.cache
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\obj\Debug\HeCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\obj\Debug\HeCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\obj\Debug\HeCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\obj\Debug\HeCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\bin\Debug\SkyTool.dll
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\bin\Debug\氦检 HeCheck.exe.config
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\bin\Debug\氦检 HeCheck.exe
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\bin\Debug\氦检 HeCheck.pdb
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\obj\Debug\氦检 HeCheck.exe
+E:\按公司分类\宁德 时代\氦检仪\HeCheck - 2023-03-17 - 1\HeCheck\obj\Debug\氦检 HeCheck.pdb
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\SkyTool.dll
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\NModbus.dll
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\NModbus.xml
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\obj\Debug\HeCheck.csprojAssemblyReference.cache
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\obj\Debug\HeCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\obj\Debug\HeCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\obj\Debug\HeCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\扫码 ScanCheck.exe.config
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\扫码 ScanCheck.exe
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\扫码 ScanCheck.pdb
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\obj\Debug\扫码 ScanCheck.exe
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\obj\Debug\扫码 ScanCheck.pdb

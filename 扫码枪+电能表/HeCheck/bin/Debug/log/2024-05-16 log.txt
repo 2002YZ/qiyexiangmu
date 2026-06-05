@@ -1,0 +1,948 @@
+14:48:44.126 --> 打开软件 2024-03-20...Ver: 1.2.0
+14:48:44.146 --> 加载参数成功...
+14:48:44.439 --> 流量泵2: 开始连接： 192.168.1.19:502
+14:48:44.440 --> 天平秤1: 开始连接： 192.168.1.15:502
+14:48:44.441 --> 天平秤2: 开始连接： 192.168.1.16:502
+14:48:44.442 --> 开始连接： 192.168.1.10:44818
+14:48:44.606 --> 连接OM OK： 192.168.1.10:44818
+14:48:44.632 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:44.663 --> 天平秤1: 连接NG 2： 192.168.1.15:502
+14:48:44.663 --> 天平秤2: 连接NG 2： 192.168.1.16:502
+14:48:44.664 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:44.676 --> 流量泵2: 连接NG 2： 192.168.1.19:502
+14:48:44.833 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:44.849 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:44.926 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:45.002 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:45.016 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:45.033 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:45.094 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:45.127 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:45.220 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:45.236 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:45.256 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:45.297 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:48:45.328 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:45.344 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:48:45.375 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:45.499 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:45.514 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:48:45.532 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:45.559 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:45.574 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:45.606 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:45.651 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:45.667 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:45.699 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:45.745 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:45.760 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:45.777 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:45.838 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:45.856 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:46.006 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:46.032 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:46.162 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:46.177 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:46.194 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:46.240 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:46.255 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:46.286 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:46.365 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:46.381 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:46.474 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:46.521 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:46.536 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:46.568 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:46.584 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:48:46.676 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:48:46.723 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:46.747 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:46.769 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:46.878 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:48:46.972 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:47.003 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:47.079 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:47.095 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:47.111 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:47.171 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:47.188 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:47.279 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:47.309 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:47.326 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:47.495 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:47.525 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:47.694 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:47.803 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:47.896 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:47.912 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:47.927 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:47.974 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:48:47.990 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:48.099 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:48.209 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:48:48.224 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:48.316 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:48.409 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:48.424 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:48:48.440 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:48.455 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:48.488 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:48.625 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:48.641 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:48.688 --> 流量泵2: 开始连接： 192.168.1.19:502
+14:48:48.718 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:48.734 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:48.764 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:48.812 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:48.828 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:48.904 --> 流量泵2: 连接NG 2： 192.168.1.19:502
+14:48:48.919 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:48.949 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:48.965 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:48.996 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:49.136 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:49.152 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:49.228 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:49.245 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:49.322 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:49.336 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:49.445 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:49.460 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:49.645 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:49.675 --> 天平秤1: 开始连接： 192.168.1.15:502
+14:48:49.677 --> 天平秤2: 开始连接： 192.168.1.16:502
+14:48:49.768 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:49.844 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:49.875 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:49.890 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:48:49.892 --> 天平秤1: 连接NG 2： 192.168.1.15:502
+14:48:49.893 --> 天平秤2: 连接NG 2： 192.168.1.16:502
+14:48:50.017 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:50.033 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:48:50.157 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:50.203 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:50.358 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:48:50.467 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:50.499 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:50.513 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:50.561 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:50.667 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:50.713 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:50.754 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:50.776 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:50.791 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:50.821 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:50.977 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:51.070 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:51.178 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:51.287 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:51.321 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:51.348 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:51.491 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:51.690 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:51.752 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:51.782 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:48:51.892 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:51.907 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:52.000 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:48:52.019 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:52.094 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:52.205 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:52.297 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:48:52.314 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:52.407 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:52.516 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:52.531 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:52.546 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:52.593 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:52.610 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:52.718 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:52.765 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:52.780 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:52.826 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:52.919 --> 流量泵2: 开始连接： 192.168.1.19:502
+14:48:52.922 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:52.952 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:52.996 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:53.013 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:53.043 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:53.074 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:53.136 --> 流量泵2: 连接NG 2： 192.168.1.19:502
+14:48:53.228 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:53.319 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:53.334 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:53.427 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:53.473 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:53.549 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:53.583 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:48:53.611 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:53.629 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:53.642 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:48:53.735 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:53.750 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:48:53.783 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:53.846 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:53.874 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:53.952 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:53.982 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:54.043 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:54.149 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:54.248 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:54.318 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:54.335 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:54.412 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:54.438 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:54.460 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:54.490 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:54.506 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:54.553 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:54.661 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:54.693 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:54.723 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:54.772 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:54.785 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:54.894 --> 天平秤1: 开始连接： 192.168.1.15:502
+14:48:54.909 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:54.911 --> 天平秤2: 开始连接： 192.168.1.16:502
+14:48:54.924 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:48:54.941 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:54.971 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:55.033 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:48:55.113 --> 天平秤1: 连接NG 2： 192.168.1.15:502
+14:48:55.127 --> 天平秤2: 连接NG 2： 192.168.1.16:502
+14:48:55.174 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:55.282 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:55.297 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:55.328 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:48:55.344 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:55.360 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:55.421 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:55.441 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:55.469 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:55.513 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:55.529 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:55.545 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:55.591 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:55.621 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:55.729 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:55.752 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:55.790 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:55.805 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:55.819 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:55.866 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:55.881 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:55.896 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:55.958 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:55.989 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:56.036 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:56.051 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:56.066 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:56.130 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:56.145 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:56.160 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:56.207 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:56.317 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:56.331 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:56.347 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:56.410 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:48:56.425 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:56.441 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:56.600 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:56.706 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:48:56.816 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:56.846 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:56.877 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:56.892 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:48:57.073 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:57.112 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:57.126 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:57.142 --> 流量泵2: 开始连接： 192.168.1.19:502
+14:48:57.158 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:57.330 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:57.361 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:57.362 --> 流量泵2: 连接NG 2： 192.168.1.19:502
+14:48:57.388 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:57.404 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:57.527 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:57.546 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:57.575 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:57.605 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:57.634 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:57.650 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:57.726 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:57.742 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:57.757 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:57.819 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:57.944 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:58.038 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:58.134 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:58.319 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:58.334 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:58.351 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:58.380 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:48:58.427 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:48:58.549 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:58.565 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:58.580 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:58.596 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:48:58.757 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:58.882 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:58.939 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:58.954 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:59.061 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:59.079 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:59.108 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:59.154 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:59.170 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:59.202 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:59.254 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:59.371 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:59.466 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:59.482 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:59.497 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:59.557 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:59.575 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:59.603 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:59.679 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:48:59.771 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:48:59.788 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:48:59.819 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:48:59.849 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:48:59.988 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:00.018 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:00.033 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:49:00.049 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:00.125 --> 天平秤1: 开始连接： 192.168.1.15:502
+14:49:00.141 --> 天平秤2: 开始连接： 192.168.1.16:502
+14:49:00.188 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:00.296 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:00.327 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:00.343 --> 天平秤1: 连接NG 2： 192.168.1.15:502
+14:49:00.358 --> 天平秤2: 连接NG 2： 192.168.1.16:502
+14:49:00.499 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:00.593 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:00.609 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:00.625 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:00.812 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:00.843 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:00.905 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:01.014 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:01.061 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:01.078 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:01.138 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:01.184 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:49:01.200 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:01.323 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:01.339 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:49:01.370 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:01.372 --> 流量泵2: 开始连接： 192.168.1.19:502
+14:49:01.417 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:01.433 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:49:01.528 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:01.559 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:01.575 --> 流量泵2: 连接NG 2： 192.168.1.19:502
+14:49:01.620 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:01.636 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:01.728 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:01.823 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:01.933 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:02.041 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:02.056 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:02.101 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:02.202 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:02.266 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:02.326 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:02.394 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:02.478 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:02.563 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:02.626 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:02.690 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:02.758 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:49:02.829 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:02.956 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:02.987 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:03.005 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:49:03.017 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:03.048 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:03.064 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:49:03.081 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:03.158 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:03.189 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:03.268 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:03.285 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:03.299 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:03.361 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:03.377 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:03.392 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:03.455 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:03.689 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:03.739 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:03.751 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:03.783 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:03.813 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:03.982 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:04.076 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:04.183 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:04.215 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:04.279 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:04.308 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:04.356 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:49:04.371 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:04.402 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:04.496 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:49:04.590 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:04.699 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:04.756 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:04.806 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:49:04.821 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:04.835 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:04.867 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:04.897 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:04.913 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:04.944 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:05.006 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:05.038 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:05.052 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:05.115 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:05.131 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:05.149 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:05.207 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:05.224 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:05.239 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:05.302 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:05.316 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:05.349 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:05.364 --> 天平秤2: 开始连接： 192.168.1.16:502
+14:49:05.366 --> 天平秤1: 开始连接： 192.168.1.15:502
+14:49:05.410 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:05.509 --> 天平秤2: 连接NG 1： 192.168.1.16:502
+14:49:05.519 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:05.529 --> 天平秤1: 连接NG 1： 192.168.1.15:502
+14:49:05.552 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:05.581 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:05.583 --> 流量泵2: 开始连接： 192.168.1.19:502
+14:49:05.596 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:05.629 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:05.799 --> 流量泵2: 连接NG 2： 192.168.1.19:502
+14:49:05.814 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:05.846 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:06.029 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:06.137 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:06.152 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:06.231 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:06.248 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:49:06.278 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:06.309 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:06.338 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:49:06.433 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:06.540 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:06.601 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:49:06.746 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:06.849 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:06.881 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:07.052 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:07.067 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:07.145 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:07.175 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:07.207 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:07.238 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:07.269 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:07.284 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:07.329 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:07.455 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:07.485 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:07.516 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:07.548 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:07.658 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:07.673 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:07.782 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:07.844 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:07.968 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:07.997 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:49:08.013 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:08.028 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:08.044 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:49:08.060 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:08.090 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:49:08.168 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:08.199 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:08.278 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:08.292 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:08.307 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:08.370 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:08.402 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:08.417 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:08.449 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:08.479 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:08.510 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:08.541 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:08.572 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:08.682 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:08.790 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:08.898 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:08.991 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:09.007 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:09.037 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:09.085 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:09.100 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:09.208 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:09.303 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:09.333 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:09.349 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:49:09.364 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:09.410 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:49:09.504 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:09.582 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:09.612 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:49:09.628 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:09.644 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:09.659 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:09.723 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:09.738 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:09.763 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:09.814 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:09.816 --> 流量泵2: 开始连接： 192.168.1.19:502
+14:49:09.924 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:09.955 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:09.970 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:10.032 --> 流量泵2: 连接NG 2： 192.168.1.19:502
+14:49:10.063 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:10.094 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:10.218 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:10.256 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:10.435 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:10.467 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:10.482 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:10.514 --> 天平秤2: 开始连接： 192.168.1.16:502
+14:49:10.528 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:10.559 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:10.562 --> 天平秤1: 开始连接： 192.168.1.15:502
+14:49:10.591 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:10.701 --> 天平秤1: 连接NG 1： 192.168.1.15:502
+14:49:10.706 --> 天平秤2: 连接NG 1： 192.168.1.16:502
+14:49:10.734 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:10.777 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:10.792 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:10.808 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:49:10.839 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:10.886 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:49:11.042 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:11.072 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:11.087 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:49:11.119 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:11.148 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:11.180 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:11.195 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:11.253 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:11.319 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:11.350 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:11.380 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:11.395 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:11.552 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:11.599 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:11.629 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:11.661 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:11.691 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:11.706 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:11.829 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:11.844 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:11.860 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:11.923 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:11.940 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:11.954 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:12.015 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:12.046 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:12.077 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:12.093 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:12.282 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:12.299 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:12.375 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:12.406 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:49:12.422 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:12.574 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:12.682 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:49:12.791 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:12.824 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:12.853 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:12.883 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:49:12.992 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:13.085 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:13.100 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:13.116 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:13.178 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:13.209 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:13.303 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:13.333 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:13.394 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:13.410 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:13.427 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:13.487 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:13.518 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:13.533 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:13.563 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:13.609 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:13.625 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:13.640 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:13.702 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:13.734 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:13.755 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:13.783 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:13.906 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:13.922 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:13.937 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:14.030 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:14.046 --> 流量泵2: 开始连接： 192.168.1.19:502
+14:49:14.061 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:14.077 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:14.093 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:49:14.109 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:49:14.218 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:14.249 --> 流量泵2: 连接NG 2： 192.168.1.19:502
+14:49:14.328 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:49:14.356 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:14.526 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:14.558 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:14.727 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:14.821 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:14.837 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:14.931 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:14.945 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:14.962 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:15.024 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:15.040 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:15.071 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:15.105 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:15.133 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:15.163 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:15.246 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:15.316 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:15.332 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:15.441 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:15.487 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:15.659 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:15.675 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:49:15.706 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:15.722 --> 天平秤2: 开始连接： 192.168.1.16:502
+14:49:15.723 --> 天平秤1: 开始连接： 192.168.1.15:502
+14:49:15.831 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:15.844 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:49:15.860 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:15.875 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:15.937 --> 天平秤2: 连接NG 2： 192.168.1.16:502
+14:49:15.939 --> 天平秤1: 连接NG 2： 192.168.1.15:502
+14:49:15.954 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:49:15.970 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:16.063 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:16.094 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:16.265 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:16.374 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:16.467 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:16.482 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:16.497 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:16.559 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:16.683 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:16.714 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:16.744 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:16.760 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:16.824 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:16.886 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:16.916 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:16.931 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:16.963 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:17.181 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:17.197 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:17.291 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:17.320 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:49:17.414 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:17.429 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:17.444 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:49:17.460 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:17.602 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:49:17.617 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:17.694 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:17.803 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:17.834 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:17.849 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:17.894 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:17.927 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:17.942 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:17.972 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:18.004 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:18.034 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:18.050 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:18.205 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:18.267 --> 流量泵2: 开始连接： 192.168.1.19:502
+14:49:18.282 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:18.297 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:18.327 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:18.374 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:18.406 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:18.485 --> 流量泵2: 连接NG 2： 192.168.1.19:502
+14:49:18.517 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:18.547 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:18.563 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:18.722 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:19.026 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:19.041 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:19.057 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:19.134 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:49:19.247 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:19.273 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:19.318 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:19.333 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:49:19.365 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:19.443 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:19.458 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:49:19.550 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:19.566 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:19.582 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:19.644 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:19.660 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:19.691 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:19.737 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:19.753 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:19.774 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:19.829 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:19.845 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:19.862 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:19.924 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:20.053 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:20.067 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:20.087 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:20.144 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:20.159 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:20.174 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:20.237 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:20.250 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:20.360 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:20.407 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:20.437 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:20.469 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:20.499 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:20.686 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:20.702 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:20.718 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:20.749 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:49:20.765 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:49:20.781 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:20.799 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:20.813 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:49:20.893 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:20.908 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:20.923 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:20.954 --> 天平秤1: 开始连接： 192.168.1.15:502
+14:49:20.955 --> 天平秤2: 开始连接： 192.168.1.16:502
+14:49:20.984 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:20.999 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:21.077 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:21.156 --> 天平秤1: 连接NG 1： 192.168.1.15:502
+14:49:21.171 --> 天平秤2: 连接NG 2： 192.168.1.16:502
+14:49:21.186 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:21.282 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:21.296 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:21.328 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:21.359 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:21.388 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:21.483 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:21.501 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:21.592 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:21.624 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:21.639 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:21.794 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:21.901 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:21.994 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:22.135 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:22.151 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:22.166 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:22.197 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:49:22.213 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:49:22.229 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:22.244 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:22.260 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:49:22.320 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:22.415 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:22.431 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:22.592 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:22.593 --> 流量泵2: 开始连接： 192.168.1.19:502
+14:49:22.625 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:22.649 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:22.679 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:22.726 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:22.803 --> 流量泵2: 连接NG 2： 192.168.1.19:502
+14:49:22.819 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:22.926 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:22.942 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:23.019 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:23.037 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:23.051 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:23.097 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:23.113 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:23.130 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:23.189 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:23.221 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:23.236 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:23.285 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:23.347 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:23.441 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:23.534 --> Weigh[1].Connect_succeed 标签写入出错 
+
+
+14:49:23.549 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:23.643 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:23.659 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:23.675 --> Weigh[2].Connect_succeed 标签写入出错 
+
+
+14:49:23.736 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:23.752 --> Pump[2].Connect_succeed 标签写入出错 
+
+
+14:49:23.782 --> 读取标签 Weigh[1].Auto_Triger 出错。。。
+14:49:23.797 --> 读取标签 Pump[2].Auto_Triger 出错。。。
+14:49:23.813 --> 读取标签 Weigh[2].Auto_Triger 出错。。。
+14:49:24.115 --> 断开连接： 192.168.1.10:44818
+14:49:24.118 --> 关闭软件...

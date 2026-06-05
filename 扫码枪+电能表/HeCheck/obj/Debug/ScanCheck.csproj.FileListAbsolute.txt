@@ -1,0 +1,1221 @@
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\扫码 ScanCheck.exe.config
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\扫码 ScanCheck.exe
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\扫码 ScanCheck.pdb
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\NModbus.dll
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\NModbus.xml
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\obj\Debug\扫码 ScanCheck.exe
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\obj\Debug\扫码 ScanCheck.pdb
+E:\按公司分类\宁德 时代\氦检仪\Scan - 2023-03-17\HeCheck\obj\Debug\ScanCheck.csprojResolveAssemblyReference.cache
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20\HeCheck\bin\Debug\扫码 ScanCheck.exe.config
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20\HeCheck\bin\Debug\扫码 ScanCheck.exe
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20\HeCheck\bin\Debug\扫码 ScanCheck.pdb
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20\HeCheck\bin\Debug\NModbus.dll
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20\HeCheck\bin\Debug\NModbus.xml
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20\HeCheck\obj\Debug\ScanCheck.csprojAssemblyReference.cache
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20\HeCheck\obj\Debug\扫码 ScanCheck.exe
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20\HeCheck\obj\Debug\扫码 ScanCheck.pdb
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20 - 1\HeCheck\bin\Debug\扫码 ScanCheck.exe.config
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20 - 1\HeCheck\bin\Debug\扫码 ScanCheck.exe
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20 - 1\HeCheck\bin\Debug\扫码 ScanCheck.pdb
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20 - 1\HeCheck\bin\Debug\NModbus.dll
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20 - 1\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20 - 1\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20 - 1\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20 - 1\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20 - 1\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20 - 1\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20 - 1\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20 - 1\HeCheck\bin\Debug\NModbus.xml
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20 - 1\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20 - 1\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20 - 1\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20 - 1\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20 - 1\HeCheck\obj\Debug\ScanCheck.csprojAssemblyReference.cache
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20 - 1\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20 - 1\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20 - 1\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20 - 1\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20 - 1\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20 - 1\HeCheck\obj\Debug\扫码 ScanCheck.exe
+E:\按公司分类\宁德 时代\通讯中转软件\Scan - 2023-03-20 - 1\HeCheck\obj\Debug\扫码 ScanCheck.pdb
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-03-20 - 1\HeCheck\bin\Debug\扫码 ScanCheck.exe.config
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-03-20 - 1\HeCheck\bin\Debug\扫码 ScanCheck.exe
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-03-20 - 1\HeCheck\bin\Debug\扫码 ScanCheck.pdb
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-03-20 - 1\HeCheck\bin\Debug\NModbus.dll
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-03-20 - 1\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-03-20 - 1\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-03-20 - 1\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-03-20 - 1\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-03-20 - 1\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-03-20 - 1\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-03-20 - 1\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-03-20 - 1\HeCheck\bin\Debug\NModbus.xml
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-03-20 - 1\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-03-20 - 1\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-03-20 - 1\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-03-20 - 1\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-03-20 - 1\HeCheck\obj\Debug\ScanCheck.csprojAssemblyReference.cache
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-03-20 - 1\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-03-20 - 1\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-03-20 - 1\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-03-20 - 1\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-03-20 - 1\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-03-20 - 1\HeCheck\obj\Debug\扫码 ScanCheck.exe
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-03-20 - 1\HeCheck\obj\Debug\扫码 ScanCheck.pdb
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-04-06\HeCheck\bin\Debug\扫码 ScanCheck.exe.config
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-04-06\HeCheck\bin\Debug\扫码 ScanCheck.exe
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-04-06\HeCheck\bin\Debug\扫码 ScanCheck.pdb
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-04-06\HeCheck\bin\Debug\NModbus.dll
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-04-06\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-04-06\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-04-06\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-04-06\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-04-06\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-04-06\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-04-06\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-04-06\HeCheck\bin\Debug\NModbus.xml
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-04-06\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-04-06\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-04-06\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-04-06\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-04-06\HeCheck\obj\Debug\ScanCheck.csprojAssemblyReference.cache
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-04-06\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-04-06\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-04-06\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-04-06\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-04-06\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-04-06\HeCheck\obj\Debug\扫码 ScanCheck.exe
+E:\按公司分类\宁德 时代\DZ2210-45 方壳周边焊接机\通讯中转软件\扫码 Scan - 2023-04-06\HeCheck\obj\Debug\扫码 ScanCheck.pdb
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-24\HeCheck\bin\Debug\扫码 ScanCheck.exe.config
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-24\HeCheck\obj\Debug\扫码 ScanCheck.exe
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-24\HeCheck\obj\Debug\扫码 ScanCheck.pdb
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-24\HeCheck\bin\Debug\扫码 ScanCheck.exe
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-24\HeCheck\bin\Debug\扫码 ScanCheck.pdb
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-24\HeCheck\bin\Debug\NModbus.dll
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-24\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-24\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-24\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-24\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-24\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-24\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-24\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-24\HeCheck\bin\Debug\NModbus.xml
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-24\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-24\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-24\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-24\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-24\HeCheck\obj\Debug\ScanCheck.csprojResolveAssemblyReference.cache
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-24\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-24\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-24\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.Cache
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-26\HeCheck\bin\Debug\扫码 ScanCheck.exe.config
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-26\HeCheck\obj\Debug\扫码 ScanCheck.exe
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-26\HeCheck\obj\Debug\扫码 ScanCheck.pdb
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-26\HeCheck\bin\Debug\扫码 ScanCheck.exe
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-26\HeCheck\bin\Debug\扫码 ScanCheck.pdb
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-26\HeCheck\bin\Debug\NModbus.dll
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-26\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-26\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-26\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-26\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-26\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-26\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-26\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-26\HeCheck\bin\Debug\NModbus.xml
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-26\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-26\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-26\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-26\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-26\HeCheck\obj\Debug\ScanCheck.csprojResolveAssemblyReference.cache
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-26\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-26\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代\DZ2304-16 法兰焊接\通讯中转软件\扫码 Scan - 2023-07-26\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.Cache
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\电能表 Power.exe.config
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\电能表 Power.exe
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\电能表 Power.pdb
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\obj\Debug\电能表 Power.exe
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\obj\Debug\电能表 Power.pdb
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\SkyTool.dll
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\System.Data.SQLite.dll
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\ClosedXML.dll
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\ClosedXML.pdb
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\ClosedXML.xml
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2023\电能表 Power - 2024-01-09\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\电能表 Power.exe.config
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\电能表 Power.exe
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\电能表 Power.pdb
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\System.Data.SQLite.dll
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\ClosedXML.dll
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\ClosedXML.pdb
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\ClosedXML.xml
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\obj\Debug\电能表 Power.exe
+E:\按公司分类\宁德 时代\通用部件程序\电能表 Power - 2024-01-09\HeCheck\obj\Debug\电能表 Power.pdb
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\电能表 Power.exe.config
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\电能表 Power.exe
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\电能表 Power.pdb
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\System.Data.SQLite.dll
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\ClosedXML.dll
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\ClosedXML.pdb
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\ClosedXML.xml
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\obj\Debug\电能表 Power.exe
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表 Power - 2024-01-09\HeCheck\obj\Debug\电能表 Power.pdb
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\电能表 Power.exe.config
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\电能表 Power.exe
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\电能表 Power.pdb
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\System.Data.SQLite.dll
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\ClosedXML.dll
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\ClosedXML.pdb
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\ClosedXML.xml
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\obj\Debug\电能表 Power.exe
+E:\按公司分类\宁德 时代\通用部件程序\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-09\HeCheck\obj\Debug\电能表 Power.pdb
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\电能表 Power.exe.config
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\电能表 Power.exe
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\电能表 Power.pdb
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\System.Data.SQLite.dll
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\ClosedXML.dll
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\ClosedXML.pdb
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\ClosedXML.xml
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\obj\Debug\电能表 Power.exe
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-11\HeCheck\obj\Debug\电能表 Power.pdb
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\电能表 Power.exe.config
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\电能表 Power.exe
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\电能表 Power.pdb
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\System.Data.SQLite.dll
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\ClosedXML.dll
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\ClosedXML.pdb
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\ClosedXML.xml
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\obj\Debug\电能表 Power.exe
+E:\按公司分类\宁德 时代 ATL\Quebec 自动线\DZ2310-83 密封钉\DZ2310-83 电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\obj\Debug\电能表 Power.pdb
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\电能表 Power.exe.config
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\电能表 Power.exe
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\电能表 Power.pdb
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\System.Data.SQLite.dll
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\NPOI.dll
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\ClosedXML.dll
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\NModbus4.dll
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\NPOI.OOXML.dll
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\Newtonsoft.Json.dll
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\ExcelNumberFormat.dll
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\SkyTool.pdb
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\NPOI.xml
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\ClosedXML.pdb
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\ClosedXML.xml
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\NModbus4.xml
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\NPOI.OOXML.xml
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\ExcelNumberFormat.xml
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\obj\Debug\HeCheck.FormMain.resources
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\obj\Debug\电能表 Power.exe
+D:\Sharewu\ATL\电能表+流量泵+电子秤 Power - 2024-01-12\HeCheck\obj\Debug\电能表 Power.pdb
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\电能表 Power.exe.config
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\电能表 Power.exe
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\电能表 Power.pdb
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\System.Data.SQLite.dll
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\NPOI.dll
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\ClosedXML.dll
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\NModbus4.dll
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\NPOI.OOXML.dll
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\Newtonsoft.Json.dll
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\ExcelNumberFormat.dll
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\SkyTool.pdb
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\NPOI.xml
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\ClosedXML.pdb
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\ClosedXML.xml
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\NModbus4.xml
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\NPOI.OOXML.xml
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\ExcelNumberFormat.xml
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\obj\Debug\HeCheck.FormMain.resources
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\obj\Debug\电能表 Power.exe
+D:\Sharewu\ATL\2024-01-15\Quebec 自动线\DZ2310-83 密封钉\电能表+流量泵+电子秤 Power - 2024-01-18\HeCheck\obj\Debug\电能表 Power.pdb
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\电能表 Power.exe.config
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\电能表 Power.exe
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\电能表 Power.pdb
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\System.Data.SQLite.dll
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\ClosedXML.dll
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\ClosedXML.pdb
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\ClosedXML.xml
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\obj\Debug\电能表 Power.exe
+E:\按公司分类\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22\HeCheck\obj\Debug\电能表 Power.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\电能表 Power.exe.config
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\电能表 Power.exe
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\电能表 Power.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\System.Data.SQLite.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\ClosedXML.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\ClosedXML.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\ClosedXML.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\obj\Debug\电能表 Power.exe
+E:\按公司分类\宁德 时代 ATL\通用部件程序\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\obj\Debug\电能表 Power.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\电能表 Power.exe.config
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\电能表 Power.exe
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\电能表 Power.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\System.Data.SQLite.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\ClosedXML.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\ClosedXML.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\ClosedXML.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\obj\Debug\电能表 Power.exe
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-22-1\HeCheck\obj\Debug\电能表 Power.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\电能表 Power.exe.config
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\电能表 Power.exe
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\电能表 Power.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\System.Data.SQLite.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\ClosedXML.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\ClosedXML.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\ClosedXML.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\obj\Debug\电能表 Power.exe
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-25\HeCheck\obj\Debug\电能表 Power.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\电能表 Power.exe.config
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\电能表 Power.exe
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\电能表 Power.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\System.Data.SQLite.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\ClosedXML.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\ClosedXML.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\ClosedXML.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\obj\Debug\电能表 Power.exe
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\obj\Debug\电能表 Power.pdb
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\电能表 Power.exe.config
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\电能表 Power.exe
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\电能表 Power.pdb
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\System.Data.SQLite.dll
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\NPOI.dll
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\ClosedXML.dll
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\NModbus4.dll
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\NPOI.OOXML.dll
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\Newtonsoft.Json.dll
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\ExcelNumberFormat.dll
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\SkyTool.pdb
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\NPOI.xml
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\ClosedXML.pdb
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\ClosedXML.xml
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\NModbus4.xml
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\NPOI.OOXML.xml
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\ExcelNumberFormat.xml
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\obj\Debug\HeCheck.FormMain.resources
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\obj\Debug\电能表 Power.exe
+D:\sqw\01-项目\00-按公司分类\02-ATL\02-QB密封钉\03-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-01-27-1\HeCheck\obj\Debug\电能表 Power.pdb
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\电能表+扫码枪.exe.config
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\电能表+扫码枪.exe
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\电能表+扫码枪.pdb
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\System.Data.SQLite.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\ClosedXML.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\ClosedXML.pdb
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\ClosedXML.xml
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\obj\Debug\电能表+扫码枪.exe
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20\HeCheck\obj\Debug\电能表+扫码枪.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\电能表+扫码枪.exe.config
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\电能表+扫码枪.exe
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\电能表+扫码枪.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\System.Data.SQLite.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\ClosedXML.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\ClosedXML.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\ClosedXML.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\obj\Debug\电能表+扫码枪.exe
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-20-1\HeCheck\obj\Debug\电能表+扫码枪.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\电能表+扫码枪.exe.config
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\电能表+扫码枪.exe
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\电能表+扫码枪.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\System.Data.SQLite.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\ClosedXML.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\ClosedXML.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\ClosedXML.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\obj\Debug\电能表+扫码枪.exe
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\obj\Debug\电能表+扫码枪.pdb
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\电能表+扫码枪.exe.config
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\电能表+扫码枪.exe
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\电能表+扫码枪.pdb
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\System.Data.SQLite.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\ClosedXML.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\ClosedXML.pdb
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\ClosedXML.xml
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\obj\Debug\电能表+扫码枪.exe
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-21\HeCheck\obj\Debug\电能表+扫码枪.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\电能表+扫码枪.exe.config
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\电能表+扫码枪.exe
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\电能表+扫码枪.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\System.Data.SQLite.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\ClosedXML.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\ClosedXML.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\ClosedXML.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\obj\Debug\电能表+扫码枪.exe
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-23\HeCheck\obj\Debug\电能表+扫码枪.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\obj\Debug\电能表+扫码枪.exe
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\obj\Debug\电能表+扫码枪.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\电能表+扫码枪.exe.config
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\电能表+扫码枪.exe
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\电能表+扫码枪.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\SkyTool.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\NModbus.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\ClosedXML.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\ClosedXML.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\ClosedXML.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-24\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\电能表+扫码枪.exe.config
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\电能表+扫码枪.exe
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\电能表+扫码枪.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\SkyTool.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\NModbus.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\ClosedXML.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\ClosedXML.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\ClosedXML.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\obj\Debug\电能表+扫码枪.exe
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-02-28\HeCheck\obj\Debug\电能表+扫码枪.pdb
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\电能表+扫码枪.exe.config
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\电能表+扫码枪.exe
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\电能表+扫码枪.pdb
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\NModbus.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\ClosedXML.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\ClosedXML.pdb
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\ClosedXML.xml
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\obj\Debug\电能表+扫码枪.exe
+E:\按公司分类\福建\宁德 时代 ATL\通用中转软件 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-20\HeCheck\obj\Debug\电能表+扫码枪.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\电能表+扫码枪.exe.config
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\电能表+扫码枪.exe
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\电能表+扫码枪.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\NModbus.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\ClosedXML.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\ClosedXML.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\ClosedXML.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\obj\Debug\电能表+扫码枪.exe
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-03-30\HeCheck\obj\Debug\电能表+扫码枪.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\电能表+扫码枪.exe.config
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\电能表+扫码枪.exe
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\电能表+扫码枪.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\NModbus.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\ClosedXML.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\ClosedXML.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\ClosedXML.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\obj\Debug\电能表+扫码枪.exe
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-03\HeCheck\obj\Debug\电能表+扫码枪.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\电能表+扫码枪.exe.config
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\电能表+扫码枪.exe
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\电能表+扫码枪.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\NModbus.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\NModbus4.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\NPOI.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\ClosedXML.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\SkyTool.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\NModbus4.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\NPOI.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\ClosedXML.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\ClosedXML.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\obj\Debug\电能表+扫码枪.exe
+E:\按公司分类\宁德 时代 ATL\通用部件程序 2024\电能表+流量泵+电子秤+扫码枪\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-10\HeCheck\obj\Debug\电能表+扫码枪.pdb
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\电能表+扫码枪.exe.config
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\电能表+扫码枪.exe
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\电能表+扫码枪.pdb
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\NModbus.dll
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\NModbus4.dll
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\NPOI.dll
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\ClosedXML.dll
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\NPOI.OOXML.dll
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\Newtonsoft.Json.dll
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\ExcelNumberFormat.dll
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\SkyTool.pdb
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\NModbus4.xml
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\NPOI.xml
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\ClosedXML.pdb
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\ClosedXML.xml
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\NPOI.OOXML.xml
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\ExcelNumberFormat.xml
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\obj\Debug\HeCheck.FormMain.resources
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\obj\Debug\ScanCheck.csproj.CopyComplete
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\obj\Debug\电能表+扫码枪.exe
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\obj\Debug\电能表+扫码枪.pdb
+D:\sqw\01-项目\00-按公司分类\02-ATL\05-电能表\电能表+流量泵+电子秤+扫码枪 Power - 2024-04-12\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\obj\Debug\电能表+扫码枪.exe
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\obj\Debug\电能表+扫码枪.pdb
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\电能表+扫码枪.exe.config
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\电能表+扫码枪.exe
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\电能表+扫码枪.pdb
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\NModbus.dll
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\NModbus4.dll
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\NPOI.dll
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\ClosedXML.dll
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\SkyTool.pdb
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\NModbus4.xml
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\NPOI.xml
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\ClosedXML.pdb
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\ClosedXML.xml
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\资料\电能表+流量泵+电子秤+扫码枪 Power - 2024-08-27\HeCheck\obj\Debug\ScanCheck.csproj.Up2Date
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\电能表+扫码枪.exe.config
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\电能表+扫码枪.exe
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\电能表+扫码枪.pdb
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\NModbus.dll
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\NModbus4.dll
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\NPOI.dll
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\ClosedXML.dll
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\SkyTool.pdb
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\NModbus4.xml
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\NPOI.xml
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\ClosedXML.pdb
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\ClosedXML.xml
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\obj\Debug\ScanCheck.csproj.Up2Date
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\obj\Debug\电能表+扫码枪.exe
+E:\软件代码\上位机软件\扫码枪HR-x300系列读取\HeCheck\obj\Debug\电能表+扫码枪.pdb
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\obj\Debug\电能表+扫码枪.exe
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\obj\Debug\电能表+扫码枪.pdb
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\电能表+扫码枪.exe.config
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\电能表+扫码枪.exe
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\电能表+扫码枪.pdb
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\NModbus.dll
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\NModbus4.dll
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\NPOI.dll
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\ClosedXML.dll
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\SkyTool.pdb
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\NModbus4.xml
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\NPOI.xml
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\ClosedXML.pdb
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\ClosedXML.xml
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\软件代码\上位机软件\LG-82\扫码枪HR-x300系列读取\HeCheck\obj\Debug\ScanCheck.csproj.Up2Date
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\电能表+扫码枪.exe.config
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\电能表+扫码枪.exe
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\电能表+扫码枪.pdb
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\NModbus.dll
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\NModbus4.dll
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\NPOI.dll
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\ClosedXML.dll
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\SkyTool.pdb
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\NModbus4.xml
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\NPOI.xml
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\ClosedXML.pdb
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\ClosedXML.xml
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\obj\Debug\ScanCheck.csproj.Up2Date
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\obj\Debug\电能表+扫码枪.exe
+E:\软件代码\上位机软件\LG-82\扫码枪+电能表\HeCheck\obj\Debug\电能表+扫码枪.pdb
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\电能表+扫码枪.exe.config
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\电能表+扫码枪.exe
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\电能表+扫码枪.pdb
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\NModbus.dll
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\NModbus4.dll
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\NPOI.dll
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\ClosedXML.dll
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\SkyTool.pdb
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\NModbus4.xml
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\NPOI.xml
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\ClosedXML.pdb
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\ClosedXML.xml
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\obj\Debug\ScanCheck.csproj.Up2Date
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\obj\Debug\电能表+扫码枪.exe
+E:\软件代码\上位机软件\LG-82\LG-83\扫码枪+电能表\HeCheck\obj\Debug\电能表+扫码枪.pdb
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\电能表+扫码枪.exe.config
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\电能表+扫码枪.exe
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\电能表+扫码枪.pdb
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\NModbus.dll
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\NModbus4.dll
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\NPOI.dll
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\ClosedXML.dll
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\NPOI.OOXML.dll
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\Newtonsoft.Json.dll
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\DocumentFormat.OpenXml.dll
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\ExcelNumberFormat.dll
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\SkyTool.pdb
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\NModbus4.xml
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\NPOI.xml
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\ClosedXML.pdb
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\ClosedXML.xml
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\NPOI.OOXML.xml
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\DocumentFormat.OpenXml.xml
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\ExcelNumberFormat.xml
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\bin\Debug\NPOI.OpenXml4Net.xml
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\obj\Debug\ScanCheck.csproj.AssemblyReference.cache
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\obj\Debug\HeCheck.FormMain.resources
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\obj\Debug\ScanCheck.Properties.Resources.resources
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\obj\Debug\ScanCheck.csproj.GenerateResource.cache
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\obj\Debug\ScanCheck.csproj.CoreCompileInputs.cache
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\obj\Debug\ScanCheck.csproj.Up2Date
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\obj\Debug\电能表+扫码枪.exe
+E:\软件代码\上位机软件\LG-82\LG_仪器仪表数据读取\扫码枪+电能表\HeCheck\obj\Debug\电能表+扫码枪.pdb
